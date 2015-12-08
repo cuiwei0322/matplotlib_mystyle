@@ -16,9 +16,10 @@ mathtext.fontset: stixsans
 
 axes.labelcolor: 0
 legend.frameon: False
+legend.shadow: False
 legend.numpoints: 1
 legend.scatterpoints: 1
-legend.fontsize: 10
+legend.fontsize: 8
 
 xtick.direction: in
 ytick.direction: in
