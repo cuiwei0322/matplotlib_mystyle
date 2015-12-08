@@ -18,7 +18,7 @@ axes.labelcolor: 0
 legend.frameon: False
 legend.numpoints: 1
 legend.scatterpoints: 1
-legend.fontsize: 8
+legend.fontsize: 10
 
 xtick.direction: in
 ytick.direction: in
