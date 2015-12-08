@@ -11,6 +11,9 @@ font.sans-serif: Arial, Helvetica
 font.serif: Times New Roman, Palatino
 
 text.color: 0
+text.usetex: False
+mathtext.fontset: stixsans
+
 axes.labelcolor: 0
 legend.frameon: False
 legend.numpoints: 1
