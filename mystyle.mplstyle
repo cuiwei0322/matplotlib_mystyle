@@ -3,7 +3,7 @@
 # .8 = light_gray
 figure.facecolor: white
 figure.edgecolor: black
-figure.dpi: 200
+figure.dpi: 100
 
 font.family: sans-serif
 font.size: 8
